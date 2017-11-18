@@ -1,0 +1,1 @@
+Exercises for course [Функциональное программирование на языке Haskell](https://stepik.org/course/75/)
